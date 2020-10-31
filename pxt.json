@@ -1,0 +1,21 @@
+{
+    "name": "servobit_walking_robot8",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "ServoBit": "github:4tronix/servobit#0.2.1"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
